@@ -1,0 +1,14 @@
+/* style.css */
+.currency-rate {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.currency-rate p {
+    margin: 0;
+}
+
+.currency-rate strong {
+    color: #0073e6;
+}
